@@ -1,6 +1,6 @@
-#   Roadmap React Router DOM
+# Roadmap React Router DOM
 
-##  Setup react router DOM
+## Setup react router DOM
 
     To Do:
     1. install react-router-DOM
@@ -17,3 +17,18 @@
     5. Pengujian pada browser
         - start app : npm start
         - http://localhost:3000
+
+## Membuat Komponen Input
+
+    To Do:
+    1. components/atoms
+        - folder Input/index.js
+            - buat functional component input (rafce)
+            - buat sebuah inputan dari bootstrap
+            -  buat props dengan nama {label, ...rest} lalu pasang di Input
+        - file index.js
+            - import dan export Input
+
+    2. Login.js
+        - import dan pasang Input
+        - pasang label
